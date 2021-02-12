@@ -1,0 +1,3 @@
+[submodule "libs/libircclient"]
+	path = libs/libircclient
+	url = https://github.com/alexlren/libircclient.git
